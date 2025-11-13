@@ -5,7 +5,10 @@ Visualize incidents on interactive Folium maps with marker clustering.
 
 > 針對台北市歷史事故資料，評估特定地區是否需提高交通安全注意，並以中文 TTS 提醒；同時以 Folium 顯示 12 月事故點與群聚。
 ## Demo
-![Taipei incident clusters](<AI map1.png>)
+<p align="center">
+  <img src="<AI map1.png>" width="420" alt="Map 1">
+  <img src="<AI map2.png>" width="420" alt="Map 2">
+</p>
 
 ---
 
