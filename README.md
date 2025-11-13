@@ -14,6 +14,4 @@ Visualize incidents on interactive Folium maps with marker clustering.
 - **Interactive maps**：使用 Folium 建立 `point_map` / `circle_map`，並以 `MarkerCluster` 群聚顯示事故點。
 - **UI switching**：用 `ipywidgets` 下拉選單在兩張地圖間切換。
 
----
 
-## Repo Structure
